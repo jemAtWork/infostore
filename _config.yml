@@ -1,0 +1,10 @@
+# Site settings
+title: Infostore
+email: jem@cs.umu.se
+description: "Lite av varje"
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
